@@ -1,4 +1,4 @@
-<img width="1280" height="720" alt="harder_challenge_video_frame_800" src="https://github.com/user-attachments/assets/727c66de-04c5-42bb-87a2-b091aafc93c2" />
+<img width="1812" height="978" alt="Screenshot 2026-05-13 215627" src="https://github.com/user-attachments/assets/fb0d4c50-5b63-479f-84fe-bf936e982da5" />
 ## Advanced Lane Finding
 
 
